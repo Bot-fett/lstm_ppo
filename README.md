@@ -36,7 +36,7 @@
 
 | Feature | Description |
 | :--- | :--- |
-| **기간** | 2016.01 ~ 2025.12 (약 10년, 미래 시뮬레이션 데이터 포함) |
+| **기간** | 2016.01 ~ 2025.12  |
 | **대상 종목** | `AAPL`, `AMD`, `AMZN`, `GOOGL`, `META`, `NVDA`, `PLTR`, `TSLA` |
 | **기본 시세** | `Open`, `High`, `Low`, `Close`, `Volume` |
 | **기술적 지표** | `MA20` (이동평균), `RSI` (상대강도), `MACD`, `ATR` (변동성), `VWAP` |
